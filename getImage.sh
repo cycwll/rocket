@@ -1,1 +1,1 @@
-"Getting image from Car's image"
+echo "Getting image from Car's image"
