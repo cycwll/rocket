@@ -1,1 +1,1 @@
-getImage.sh|recongizeImage.sh|speakoutName.sh
+./getImage.sh|./recongizeImage.sh|./speakoutName.sh
